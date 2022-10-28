@@ -1,4 +1,3 @@
-config.vm.box = "ubuntu/bionic64"
 
 
 1. virtualbox is the provider for vagrant
@@ -15,3 +14,5 @@ config.vm.box = "ubuntu/bionic64"
 4. 
  
 
+## Resources
+1. vagrant crash course: https://www.youtube.com/watch?v=vBreXjkizgo
